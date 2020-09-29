@@ -14,3 +14,5 @@
 beurt#1 = p
 
 beurt#2 = r
+
+beurt#3 = o
